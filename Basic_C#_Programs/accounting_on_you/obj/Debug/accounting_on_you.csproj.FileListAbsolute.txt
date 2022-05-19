@@ -1,0 +1,6 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\bin\Debug\accounting_on_you.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\bin\Debug\accounting_on_you.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\bin\Debug\accounting_on_you.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\obj\Debug\accounting_on_you.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\obj\Debug\accounting_on_you.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\accounting_on_you\obj\Debug\accounting_on_you.pdb
