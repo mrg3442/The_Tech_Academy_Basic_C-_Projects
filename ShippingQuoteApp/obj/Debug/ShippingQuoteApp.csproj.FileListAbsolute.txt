@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.pdb
