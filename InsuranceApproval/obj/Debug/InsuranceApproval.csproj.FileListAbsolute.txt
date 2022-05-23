@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
