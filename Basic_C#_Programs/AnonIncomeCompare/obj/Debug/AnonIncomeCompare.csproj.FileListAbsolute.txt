@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\bin\Debug\AnonIncomeCompare.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\bin\Debug\AnonIncomeCompare.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\bin\Debug\AnonIncomeCompare.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\obj\Debug\AnonIncomeCompare.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\obj\Debug\AnonIncomeCompare.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\obj\Debug\AnonIncomeCompare.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\AnonIncomeCompare\obj\Debug\AnonIncomeCompare.pdb
