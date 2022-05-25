@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
