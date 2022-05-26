@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\obj\Debug\StringsAndIntegersAssign.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\obj\Debug\StringsAndIntegersAssign.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\bin\Debug\StringsAndIntegersAssign.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\bin\Debug\StringsAndIntegersAssign.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\bin\Debug\StringsAndIntegersAssign.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\obj\Debug\StringsAndIntegersAssign.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\StringsAndIntegersAssign\obj\Debug\StringsAndIntegersAssign.pdb
