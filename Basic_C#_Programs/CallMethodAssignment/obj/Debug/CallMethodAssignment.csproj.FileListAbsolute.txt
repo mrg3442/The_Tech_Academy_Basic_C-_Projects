@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\obj\Debug\CallMethodAssignment.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\obj\Debug\CallMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\bin\Debug\CallMethodAssignment.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\bin\Debug\CallMethodAssignment.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\bin\Debug\CallMethodAssignment.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\obj\Debug\CallMethodAssignment.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CallMethodAssignment\obj\Debug\CallMethodAssignment.pdb
