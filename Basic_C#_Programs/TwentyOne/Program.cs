@@ -11,13 +11,15 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            deck = Shuffle(deck);
+            int timesShuffled = 0;
+            deck = Shuffle(deck,out timesShuffled, 3);
 
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Times Shuffled: {0}", timesShuffled);
             Console.Read();
         }
 
@@ -33,6 +35,17 @@ namespace TwentyOne
                 deck.Cards.RemoveAt(randomIndex);
             }
             deck.Cards = TempList;
+            return deck;
+        }
+
+        public static Deck Shuffle(Deck deck,out int timesShuffled, int times = 1)
+        {
+            timesShuffled = 0;
+            for(int i = 0; i < times; i++)
+            {
+                timesShuffled++;
+                deck = Shuffle(deck);
+            }
             return deck;
         }
     }
