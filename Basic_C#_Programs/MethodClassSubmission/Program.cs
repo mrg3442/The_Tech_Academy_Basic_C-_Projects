@@ -12,6 +12,7 @@ namespace MethodClassSubmission
         {
             //instantiate class
             var operatorObject = new Class1();
+            operatorObject.Method1(2, 2);
             //calls method and specifies parameters by name
             operatorObject.Method1(num1: 2, num2: 2);
             Console.Read();
