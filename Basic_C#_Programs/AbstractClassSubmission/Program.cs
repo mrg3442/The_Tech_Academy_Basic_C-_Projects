@@ -16,6 +16,12 @@ namespace AbstractClassSubmission
             sample.FirstName = "Sample";
             sample.LastName = "Employee";
             sample.SayName();
+            //creates object of IQuitable type then calls Quit Method
+            Employee sample2 = new Employee();
+            sample2.FirstName = "Sample";
+            sample2.LastName = "Employee";
+            sample2.Quit();
+
             Console.Read();
         }
     }
