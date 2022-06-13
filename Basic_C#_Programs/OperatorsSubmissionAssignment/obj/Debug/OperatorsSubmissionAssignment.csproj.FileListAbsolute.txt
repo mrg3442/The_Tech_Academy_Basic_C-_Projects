@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.pdb
