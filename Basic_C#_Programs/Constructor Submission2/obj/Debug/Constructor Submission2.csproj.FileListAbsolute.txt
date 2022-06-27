@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\bin\Debug\Constructor Submission2.exe.config
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\bin\Debug\Constructor Submission2.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\bin\Debug\Constructor Submission2.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\obj\Debug\Constructor Submission2.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\obj\Debug\Constructor Submission2.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\obj\Debug\Constructor Submission2.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Constructor Submission2\obj\Debug\Constructor Submission2.pdb
