@@ -1,0 +1,26 @@
+﻿@using NewsletterAppMvc.ViewModels
+@model List<SignupVM>
+
+<div class="row no-gutters">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign Ups</h5>
+            </div>
+        <div class="card-body">
+            @foreach (var signup in Model)
+            {
+                <div class="row">
+                    <div class="col">
+                        @signup.firstName
+                    </div>
+                    <div class="col">
+                        @signup.lastName
+                    </div>
+                    <div class="col">
+                        @signup.email
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

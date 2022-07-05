@@ -1,7 +1,10 @@
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\bin\Debug\TwentyOne.exe.config
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\bin\Debug\TwentyOne.exe
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\bin\Debug\TwentyOne.pdb
-C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\bin\Debug\Casino.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\bin\Debug\Casino.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
