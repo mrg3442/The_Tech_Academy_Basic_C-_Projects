@@ -1,0 +1,36 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\CodeFirst Submission.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\CodeFirst Submission.deps.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\CodeFirst Submission.runtimeconfig.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\CodeFirst Submission.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\CodeFirst Submission.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\EntityFramework.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.CodeDom.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.AssemblyInfoInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.AssemblyInfo.cs
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.csproj.CopyComplete
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\refint\CodeFirst Submission.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\CodeFirst Submission.genruntimeconfig.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\CodeFirst Submission\CodeFirst Submission\obj\Debug\net6.0\ref\CodeFirst Submission.dll
