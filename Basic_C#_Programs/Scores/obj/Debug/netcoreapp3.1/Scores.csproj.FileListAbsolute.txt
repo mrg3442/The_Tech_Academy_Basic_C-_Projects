@@ -1,0 +1,14 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache

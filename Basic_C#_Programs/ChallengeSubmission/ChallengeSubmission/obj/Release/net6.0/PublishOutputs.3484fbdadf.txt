@@ -1,0 +1,7 @@
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.exe
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.dll
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.deps.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.runtimeconfig.json
+C:\Tech Academy Projects\The_Tech_Academy_Basic_C-_Projects\Basic_C#_Programs\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ChallengeSubmission20220706103901" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Tech\ Academy\ Projects\\The_Tech_Academy_Basic_C-_Projects\\Basic_C\#_Programs\\ChallengeSubmission\\ChallengeSubmission\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

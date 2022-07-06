@@ -47,7 +47,7 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Table table)
         {
-            table.Quote = 0;
+            table.Quote = 50;
             int age = 0;
             age = DateTime.Now.Subtract(table.DateOfBirth).Days;
             age = age / 365;
@@ -81,7 +81,7 @@ namespace CarInsurance.Controllers
                 {
                     table.Quote += 25;
                 }
-                for (int i = table.SpeedingTickets ; i > 1; i--)
+                for (int i = table.SpeedingTickets ; i > 0; i--)
                 {
                     table.Quote += 10;
                 }
@@ -123,7 +123,7 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Table table)
         {
-            table.Quote = 0;
+            table.Quote = 50;
             int age = 0;
             age = DateTime.Now.Subtract(table.DateOfBirth).Days;
             age = age / 365;
@@ -157,7 +157,7 @@ namespace CarInsurance.Controllers
                 {
                     table.Quote += 25;
                 }
-                for (int i = table.SpeedingTickets; i > 1; i--)
+                for (int i = table.SpeedingTickets; i > 0; i--)
                 {
                     table.Quote += 10;
                 }
